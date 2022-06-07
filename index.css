@@ -1,0 +1,16 @@
+#borderdiv{
+    height:2000px;
+    width: 60%;
+    border:2px solid black;
+    margin-left:20%
+}
+
+.content{
+    text-align: center;
+    font-size:30px;
+    color :red;
+    margin-top:5%
+}
+h2{
+    text-align: center;
+}
